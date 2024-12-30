@@ -21,8 +21,8 @@ I have extensive experience in:
 - Automating deployment pipelines with CI/CD tools for seamless application delivery.
 - Building Infrastructure as Code (IaC) solutions with Terraform and AWS CloudFormation.
 - Designing and deploying containerized applications using Docker and Kubernetes.
-
-My commitment to continuous learning ensures that I stay ahead of the curve in emerging cloud technologies and DevOps trends, enabling me to bring innovative ideas to life.
+  
+<sub>My commitment to continuous learning ensures that I stay ahead of the curve in emerging cloud technologies and DevOps trends, enabling me to bring innovative ideas to life.</sub>
 ---
 
 ## **Core Skills**
