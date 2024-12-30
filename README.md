@@ -42,17 +42,47 @@ I have extensive experience in:
 ---
 
 ## **Highlighted Projects**
-### **1. Automated Code Deployment Using Lambda and EventBridge**
+# CI/CD Deployment Pipeline with AWS CodePipeline and CodeDeploy
+
+This project demonstrates a fully automated **CI/CD pipeline** using AWS **CodePipeline** and **CodeDeploy** to deploy applications from **Amazon S3** to **EC2 instances**.
+
+## Key Highlights
+
+- **Automated Deployment**: Fully automated pipeline from S3 to EC2 using CodePipeline and CodeDeploy.
+- **Notifications**: Integrated **Amazon SNS** for deployment status notifications.
+- **Monitoring**: Uses **CloudWatch Logs** for real-time deployment monitoring.
+- **Rollback**: Automated rollback functionality in case of deployment failure.
+---
+## Technologies Used
+
+- **AWS CodePipeline**
+- **AWS CodeDeploy**
+- **Amazon S3**
+- **Amazon EC2**
+- **Amazon SNS**
+- **CloudWatch Logs**
+
+---
+### **1. CI/CD Deployment Pipeline with CodeDeploy and CodePipeline**
+- **Description:** Implemented an automated **CI/CD pipeline** to streamline the deployment process of applications from **Amazon S3** to **EC2 instances** using **AWS CodeDeploy** and **CodePipeline**. The pipeline includes the steps for building, testing, and deploying code in an automated fashion, reducing manual intervention and ensuring quicker updates to production environments.
+- **Key Technologies:** CodePipeline, CodeDeploy, S3, EC2, SNS, CloudWatch, IAM
+- **Outcome:** 
+  - **Reduced Deployment Time**: Automated the entire deployment lifecycle, reducing deployment time by 40%.
+  - **Error Handling**: Integrated **Amazon SNS** for deployment success/failure notifications and used **CloudWatch** for real-time monitoring.
+  - **Rollback Mechanism**: Configured automatic rollback on failure to ensure minimal downtime.
+  - **Continuous Integration**: Enabled continuous integration and delivery with frequent, reliable code pushes and deployments.
+    
+### **2. Automated Code Deployment Using Lambda and EventBridge**
 - **Description:** Automated the deployment process for an application using AWS Lambda, EventBridge, and EC2, ensuring seamless integration and logging.
 - **Key Technologies:** Lambda, EC2, RDS, S3, DynamoDB, CloudWatch
 - **Outcome:** Reduced deployment time by 40% and enhanced scalability.
 
-### **2. Multi-Region Failover Architecture**
+### **3. Multi-Region Failover Architecture**
 - **Description:** Designed a failover architecture with VPCs across two regions using Route 53, ALB, and Auto Scaling.
 - **Key Technologies:** Route 53, Auto Scaling, ALB, SSL
 - **Outcome:** Ensured 99.99% uptime by implementing a highly available system.
 
-### **3. Secure EC2-to-S3 Communication Using VPC Endpoint**
+### **4. Secure EC2-to-S3 Communication Using VPC Endpoint**
 - **Description:** Configured a private connection between EC2 instances and S3 using a VPC Endpoint.
 - **Key Technologies:** EC2, S3, VPC Endpoint
 - **Outcome:** Eliminated public access and enhanced security.
