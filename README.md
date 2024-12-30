@@ -52,7 +52,7 @@ I have extensive experience in:
   - **Rollback Mechanism**: Configured automatic rollback on failure to ensure minimal downtime.
   - **Continuous Integration**: Enabled continuous integration and delivery with frequent, reliable code pushes and deployments.
     
-### ### 2. **Automated Code Deployment Using Lambda and EventBridge**
+### 2. **Automated Code Deployment Using Lambda and EventBridge**
 - **Description:** Automated the deployment process for an application by integrating AWS Lambda, EventBridge, and EC2. The solution leverages an event-driven architecture to efficiently deploy new application code with minimal human intervention. AWS EventBridge schedules the deployment task every 15 minutes, allowing Lambda to monitor S3 for new code uploads. When a new file is detected, Lambda fetches, sorts, and compares timestamps with DynamoDB, ensuring that only the latest version of code is deployed. The solution then updates the application hosted on EC2, ensuring zero downtime and continuous delivery. The process also includes detailed logging in Amazon RDS for auditability and real-time tracking of deployment statuses.
 
 - **Key Technologies:** Lambda, EC2, RDS, S3, DynamoDB, CloudWatch, EventBridge
