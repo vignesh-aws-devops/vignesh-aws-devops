@@ -35,10 +35,10 @@ I have extensive experience in:
 ---
 
 ## **Certifications**
-- **AWS Certified Solutions Architect – Associate**  
+- **AWS Certified Solutions Architect – Associate**
   *Issued: December 2024*  
-- **AWS Certified Cloud Practitioner**  
-  *Issued: May 2022*
+- **AWS Certified Cloud Practitioner**
+  *Issued: December 2024*  
 
 ---
 
