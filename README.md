@@ -42,27 +42,7 @@ I have extensive experience in:
 ---
 
 ## **Highlighted Projects**
-# CI/CD Deployment Pipeline with AWS CodePipeline and CodeDeploy
 
-This project demonstrates a fully automated **CI/CD pipeline** using AWS **CodePipeline** and **CodeDeploy** to deploy applications from **Amazon S3** to **EC2 instances**.
-
-## Key Highlights
-
-- **Automated Deployment**: Fully automated pipeline from S3 to EC2 using CodePipeline and CodeDeploy.
-- **Notifications**: Integrated **Amazon SNS** for deployment status notifications.
-- **Monitoring**: Uses **CloudWatch Logs** for real-time deployment monitoring.
-- **Rollback**: Automated rollback functionality in case of deployment failure.
----
-## Technologies Used
-
-- **AWS CodePipeline**
-- **AWS CodeDeploy**
-- **Amazon S3**
-- **Amazon EC2**
-- **Amazon SNS**
-- **CloudWatch Logs**
-
----
 ### **1. CI/CD Deployment Pipeline with CodeDeploy and CodePipeline**
 - **Description:** Implemented an automated **CI/CD pipeline** to streamline the deployment process of applications from **Amazon S3** to **EC2 instances** using **AWS CodeDeploy** and **CodePipeline**. The pipeline includes the steps for building, testing, and deploying code in an automated fashion, reducing manual intervention and ensuring quicker updates to production environments.
 - **Key Technologies:** CodePipeline, CodeDeploy, S3, EC2, SNS, CloudWatch, IAM
