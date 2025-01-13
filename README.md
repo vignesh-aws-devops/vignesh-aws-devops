@@ -53,7 +53,7 @@ I have extensive experience in:
   - **Continuous Integration**: Enabled continuous integration and delivery with frequent, reliable code pushes and deployments.
 
 Check out my detailed LinkedIn post about this project [here](https://www.linkedin.com/posts/vignesh-aws-devops_devops-automation-cloudcomputing-activity-7284381142810607617-wzH5?utm_source=share&utm_medium=member_desktop). Feel free to share your thoughts and feedback!
-You can access the full repository for this project on [GitHub](https://github.com/vignesh-aws-devops/your-repo-name). Review the architecture, and collaborate!
+You can access the full repository for this project on [GitHub](https://github.com/vignesh-aws-devops/end-to-end-cicd-pipeline/tree/main). Review the architecture, and collaborate!
  
 ### 2. **Automated Code Deployment Using Lambda and EventBridge**
 - **Description:** Automated the deployment process for an application by integrating AWS Lambda, EventBridge, and EC2. The solution leverages an event-driven architecture to efficiently deploy new application code with minimal human intervention. AWS EventBridge schedules the deployment task every 15 minutes, allowing Lambda to monitor S3 for new code uploads. When a new file is detected, Lambda fetches, sorts, and compares timestamps with DynamoDB, ensuring that only the latest version of code is deployed. The solution then updates the application hosted on EC2, ensuring zero downtime and continuous delivery. The process also includes detailed logging in Amazon RDS for auditability and real-time tracking of deployment statuses.
