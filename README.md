@@ -33,7 +33,8 @@ I have extensive experience in:
 - Scalable Cloud Architectures
 
 ---
-
+- **AWS Certified SysOps Administrator – Associate**  
+  *Issued: March 2025*  
 - **AWS Certified Solutions Architect – Associate**  
   *Issued: December 2024*  
 - **AWS Certified Cloud Practitioner**  
