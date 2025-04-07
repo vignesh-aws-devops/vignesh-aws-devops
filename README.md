@@ -5,10 +5,10 @@ Welcome to my portfolio! Here you'll find detailed documentation about my skills
 ---
 
 ### **About Me**
-I am a passionate AWS DevOps Engineer with a proven track record of designing and implementing secure, scalable, and automated cloud solutions. With expertise in AWS services, DevOps tools, and automation practices, I thrive on solving complex challenges and delivering high-quality, cost-effective solutions.
+I am a passionate DevOps Engineer with a proven track record of designing and implementing secure, scalable, and automated cloud solutions. With expertise in AWS services, DevOps tools, and automation practices, I thrive on solving complex challenges and delivering high-quality, cost-effective solutions.
 
 I have extensive experience in:
-- Architecting highly available and fault-tolerant systems using AWS best practices.
+- Architecting highly available and fault-tolerant systems using DevOps best practices.
 - Automating deployment pipelines with CI/CD tools for seamless application delivery.
 - Building Infrastructure as Code (IaC) solutions with Terraform and AWS CloudFormation.
 - Designing and deploying containerized applications using Docker and Kubernetes.
