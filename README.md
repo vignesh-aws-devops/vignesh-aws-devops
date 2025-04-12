@@ -5,8 +5,7 @@
 ## **About Me**
 AWS DevOps professional with a strong background in designing and implementing scalable, automated cloud solutions. Skilled in leveraging a wide range of AWS services and DevOps tools to streamline deployments, enhance system reliability, and drive operational efficiency. Committed to continuous learning and innovation through hands-on projects and real-world problem-solving.
   
-<sub>My commitment to continuous learning ensures that I stay ahead of the curve in emerging cloud technologies and DevOps trends, enabling me to bring innovative ideas to life.</sub>
----
+My commitment to continuous learning ensures that I stay ahead of the curve in emerging cloud technologies and DevOps trends, enabling me to bring innovative ideas to life.
 
 ## **Core Skills**
 - AWS Cloud: EC2, S3, Lambda, RDS, VPC, IAM, DynamoDB, Route 53, EventBridge, CloudFront, ELB, Auto Scaling, CodePipeline, CodeDeploy
