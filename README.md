@@ -17,21 +17,18 @@ AWS DevOps professional with a strong background in designing and implementing s
 - Monitoring & ITSM Tools: AWS CloudWatch, ServiceNow, Splunk, Grafana, Prometheus
 
 ---
-- **AWS Certified SysOps Administrator – Associate**  
-  *Issued: March 2025*  
-- **AWS Certified Solutions Architect – Associate**  
-  *Issued: December 2024*  
-- **AWS Certified Cloud Practitioner**  
-  *Issued: May 2022*
+
+## **Certifications
+- AWS Certified SysOps Administrator – Associate  
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 
 ---
 
 ## **Projects***
-All of my projects are available at https://github.com/vignesh-aws-devops?tab=repositories
-Meduim : https://vignesh-aws-devops.medium.com/
-HashNode : https://vignesh-aws-devops.hashnode.dev/
-
-
+- All of my projects are available at https://github.com/vignesh-aws-devops?tab=repositories
+- Medium : https://vignesh-aws-devops.medium.com/
+- HashNode : https://vignesh-aws-devops.hashnode.dev/
 ---
 
 ## **Contact Me**
