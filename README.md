@@ -26,19 +26,10 @@ AWS DevOps professional with a strong background in designing and implementing s
 
 ---
 
-## **Highlighted Projects**
-
-### **1. CI/CD Deployment Pipeline with CodeDeploy and CodePipeline**
-- Built a fully automated CI/CD pipeline using CodePipeline, CodeBuild, and CodeDeploy, enabling seamless deployments from Amazon S3 to EC2 with zero downtime.
-- Configured Amazon CloudWatch for real-time monitoring and integrated SNS notifications to ensure visibility and prompt incident response during deployments.
-- Enabled S3 versioning for centralized code management, allowing quick rollback to stable versions and improving release reliability.
-- Implemented automated testing and build validation in CodeBuild to catch issues early and maintain production stability.
-- Designed the pipeline for multi-environment deployments (Dev, Test, Prod), improving release velocity by 40% and reducing manual effort.
-- Applied strict IAM roles and security controls across services to enforce least-privilege access and secure the CI/CD workflow.
-
-Check out my detailed LinkedIn post about this project [here](https://www.linkedin.com/posts/vignesh-aws-devops_devops-automation-cloudcomputing-activity-7284381142810607617-wzH5?utm_source=share&utm_medium=member_desktop). Feel free to share your thoughts and feedback!
-You can access the full repository for this project on [GitHub](https://github.com/vignesh-aws-devops/end-to-end-cicd-pipeline/tree/main). Review the architecture, and collaborate!
- 
+## **Projects***
+All of my projects are available at https://github.com/vignesh-aws-devops?tab=repositories
+Meduim : https://vignesh-aws-devops.medium.com/
+HashNode : https://vignesh-aws-devops.hashnode.dev/
 
 
 ---
