@@ -1,7 +1,5 @@
 # GitHub Profile
 
-Welcome to my portfolio! Here you'll find detailed documentation about my skills, certifications, and projects as an AWS DevOps Engineer.
-
 ---
 
 ### **About Me**
