@@ -5,13 +5,7 @@ Welcome to my portfolio! Here you'll find detailed documentation about my skills
 ---
 
 ### **About Me**
-I am a passionate DevOps Engineer with a proven track record of designing and implementing secure, scalable, and automated cloud solutions. With expertise in AWS services, DevOps tools, and automation practices, I thrive on solving complex challenges and delivering high-quality, cost-effective solutions.
-
-I have extensive experience in:
-- Architecting highly available and fault-tolerant systems using DevOps best practices.
-- Automating deployment pipelines with CI/CD tools for seamless application delivery.
-- Building Infrastructure as Code (IaC) solutions with Terraform and AWS CloudFormation.
-- Designing and deploying containerized applications using Docker and Kubernetes.
+AWS DevOps professional with a strong background in designing and implementing scalable, automated cloud solutions. Skilled in leveraging a wide range of AWS services and DevOps tools to streamline deployments, enhance system reliability, and drive operational efficiency. Committed to continuous learning and innovation through hands-on projects and real-world problem-solving.
   
 <sub>My commitment to continuous learning ensures that I stay ahead of the curve in emerging cloud technologies and DevOps trends, enabling me to bring innovative ideas to life.</sub>
 ---
@@ -35,36 +29,16 @@ I have extensive experience in:
 ## **Highlighted Projects**
 
 ### **1. CI/CD Deployment Pipeline with CodeDeploy and CodePipeline**
-- **Description:** Implemented an automated **CI/CD pipeline** to streamline the deployment process of applications from **Amazon S3** to **EC2 instances** using **AWS CodeDeploy** and **CodePipeline**. The pipeline includes the steps for building, testing, and deploying code in an automated fashion, reducing manual intervention and ensuring quicker updates to production environments.
-- **Key Technologies:** CodePipeline, CodeDeploy, S3, EC2, SNS, CloudWatch, IAM
-- **Outcome:** 
-  - **Reduced Deployment Time**: Automated the entire deployment lifecycle, reducing deployment time by 40%.
-  - **Error Handling**: Integrated **Amazon SNS** for deployment success/failure notifications and used **CloudWatch** for real-time monitoring.
-  - **Rollback Mechanism**: Configured automatic rollback on failure to ensure minimal downtime.
-  - **Continuous Integration**: Enabled continuous integration and delivery with frequent, reliable code pushes and deployments.
+Built a fully automated CI/CD pipeline using CodePipeline, CodeBuild, and CodeDeploy, enabling seamless deployments from Amazon S3 to EC2 with zero downtime.
+Configured Amazon CloudWatch for real-time monitoring and integrated SNS notifications to ensure visibility and prompt incident response during deployments.
+Enabled S3 versioning for centralized code management, allowing quick rollback to stable versions and improving release reliability.
+Implemented automated testing and build validation in CodeBuild to catch issues early and maintain production stability.
+Designed the pipeline for multi-environment deployments (Dev, Test, Prod), improving release velocity by 40% and reducing manual effort.
+Applied strict IAM roles and security controls across services to enforce least-privilege access and secure the CI/CD workflow.
 
 Check out my detailed LinkedIn post about this project [here](https://www.linkedin.com/posts/vignesh-aws-devops_devops-automation-cloudcomputing-activity-7284381142810607617-wzH5?utm_source=share&utm_medium=member_desktop). Feel free to share your thoughts and feedback!
 You can access the full repository for this project on [GitHub](https://github.com/vignesh-aws-devops/end-to-end-cicd-pipeline/tree/main). Review the architecture, and collaborate!
  
-
-You can access the full repository for this project on [GitHub](https://github.com/vignesh-aws-devops/aws-eventbridge-lambda-deployment). Review the architecture, and collaborate!
-    
-### **3. Multi-Region Failover Architecture**
-- **Description:** Designed and deployed a robust failover architecture across two AWS regions, leveraging AWS Route 53 for DNS failover, Application Load Balancers (ALBs) for traffic distribution, and Auto Scaling for automatic resource scaling based on demand. This architecture ensures high availability by directing traffic to the primary region under normal conditions and automatically failing over to the secondary region in case of an instance or regional failure. The architecture also incorporates SSL/TLS certificates from AWS Certificate Manager (ACM) for secure communication between clients and the application. The system was designed to maintain a seamless user experience with minimal downtime and fast recovery times.
-
-- **Key Technologies:** Route 53, Auto Scaling, ALB, SSL/TLS, ACM, EC2, VPC
-
-- **Outcome:** 
-  - Achieved 99.99% uptime by designing a fault-tolerant architecture that balances traffic and ensures failover across regions.
-  - Enhanced the user experience by ensuring minimal service disruption, even during regional outages.
-  - Improved system resilience with automated scaling and health checks that ensure the application runs optimally across multiple regions.
-  - Secured user data with SSL/TLS encryption, ensuring safe communication between the client and the application.
-  - Demonstrated the ability to design scalable and highly available infrastructure using multiple AWS services.
- 
-Check out my detailed LinkedIn post about this project [here](https://www.linkedin.com/posts/vignesh-aws-devops_cloudcomputing-devops-highavailability-activity-7276608767062953986-iejC?utm_source=share&utm_medium=member_desktop). Feel free to share your thoughts and feedback!
-You can access the full repository for this project on [GitHub](https://github.com/vignesh-aws-devops/aws-multi-region-failover-architecture). Review the architecture, and collaborate!
-
-
 
 
 ---
