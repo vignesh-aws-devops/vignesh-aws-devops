@@ -17,11 +17,10 @@ I have extensive experience in:
 ---
 
 ## **Core Skills**
-- AWS: Lambda, EC2, S3, RDS, CloudFormation, CodePipeline
-- DevOps: CI/CD, Docker, Kubernetes, Terraform
-- Programming: Python, SQL
-- Cloud Automation and Infrastructure as Code (IaC)
-- Scalable Cloud Architectures
+- AWS Cloud: EC2, S3, Lambda, RDS, VPC, IAM, DynamoDB, Route 53, EventBridge, CloudFront, ELB, Auto Scaling, CodePipeline, CodeDeploy
+- Programming & Scripting: Python, Java, SQL, Linux, Shell Scripting
+- DevOps & Automation: Git, Jenkins, Docker, Terraform, Kubernetes, Ansible
+- Monitoring & ITSM Tools: AWS CloudWatch, ServiceNow, Splunk, Grafana, Prometheus
 
 ---
 - **AWS Certified SysOps Administrator – Associate**  
