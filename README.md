@@ -16,14 +16,14 @@ AWS DevOps professional with a strong background in designing and implementing s
 
 ---
 
-## **Certifications
+## **Certifications**
 - AWS Certified SysOps Administrator – Associate  
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner
 
 ---
 
-## **Projects***
+## **Projects**
 - All of my projects are available at https://github.com/vignesh-aws-devops?tab=repositories
 - Medium : https://vignesh-aws-devops.medium.com/
 - HashNode : https://vignesh-aws-devops.hashnode.dev/
