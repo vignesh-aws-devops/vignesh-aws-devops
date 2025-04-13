@@ -23,9 +23,10 @@ My commitment to continuous learning ensures that I stay ahead of the curve in e
 ---
 
 ## **Projects**
-- All of my projects are available at https://github.com/vignesh-aws-devops?tab=repositories
-- Medium : https://vignesh-aws-devops.medium.com/
-- HashNode : https://vignesh-aws-devops.hashnode.dev/
+- Projects : [GitHub](https://github.com/vignesh-aws-devops?tab=repositories)
+- Medium : [Medium](https://vignesh-aws-devops.medium.com/)
+- HashNode : [HashNode](https://vignesh-aws-devops.hashnode.dev/)
+
 ---
 
 ## **Contact Me**
